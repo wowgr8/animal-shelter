@@ -1,0 +1,26 @@
+.column1 {
+  width: 20%;
+  float: left;
+  text-align: center;
+  border:red;
+  box-sizing: border-box;
+}
+
+.column2 {
+  width: 20%;
+  float: left;
+  text-align: center;
+  border: teal;
+  box-sizing: border-box;
+}
+
+.column3 {
+  width: 20%;
+  float: left;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.column1 p {
+  text: orange;
+}
