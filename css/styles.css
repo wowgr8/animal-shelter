@@ -2,8 +2,6 @@
   width: 20%;
   float: left;
   text-align: center;
-  border:red;
-  box-sizing: border-box;
 }
 
 .column2 {
@@ -22,5 +20,5 @@
 }
 
 .column1 p {
-  text: orange;
+  color: orange;
 }
